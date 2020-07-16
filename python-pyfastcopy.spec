@@ -25,6 +25,4 @@ It can provide important performance improvements for large file copy (typically
 %py_install
 
 %files
-%doc README.rst
-%license LICENSE.txt
 %{python_sitelib}/*
