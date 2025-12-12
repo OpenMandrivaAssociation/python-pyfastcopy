@@ -1,6 +1,6 @@
 Name:           python-pyfastcopy
 Version:        1.0.3
-Release:        4
+Release:        5
 Summary:        simple Python module that monkey patches the shutil.copyfile function of Python standard library to internally use the sendfile system call
 License:        GPL
 URL:            https://pypi.org/project/pyfastcopy/
